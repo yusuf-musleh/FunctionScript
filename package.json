@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "babylon": "^6.16.1",
-    "keyql": "^0.1.4",
+    "keyql": "github:yusuf-musleh/KeyQL#master",
     "minimatch": "^3.0.4",
     "uuid": "^3.0.1"
   },
